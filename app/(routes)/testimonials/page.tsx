@@ -23,11 +23,6 @@ const TestimonialsPage = () => {
                         </div>
                 
                         <div className="flex items-center mb-2">
-                            <strong className="text-white text-lg w-32">Phone:</strong> 
-                            <span className="text-secondary text-lg">+5493816065258</span>
-                        </div>
-
-                        <div className="flex items-center mb-2">
                             <strong className="text-white text-lg w-32">Email:</strong> 
                             <span className="text-secondary text-lg">emanuelradino@hotmail.com</span>
                         </div>
