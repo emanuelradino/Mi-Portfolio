@@ -19,12 +19,12 @@ const ServicesPage = () => {
                     servicios.
                 </span>
             </h1>
-                <p className="mb-3 text-lg text-gray-300 md:text-xl">Ofrezco servicios de 
+                <p className="mb-20 text-lg text-gray-300 md:text-left">Ofrezco servicios de 
                     desarrollo web frontend especializados en la creación
                     de sitios web y aplicaciones atractivas y funcionales.
-                    Utilizando las últimas tecnologías, como Html,JavaScript,NextJS,React,NodeJs,diseño 
+                    Utilizando las últimas tecnologías como: <br/> Html,JavaScript,NextJS,React,NodeJs,diseño 
                     interfaces de usuario intuitivas y responsivas.</p>
-                    <button className="px-3 py-2 rounded-lg bg-secondary hover:bg-secondary/65">Contacta conmigo</button>
+                   
               </div>
             
             {/* SLIDER */ }

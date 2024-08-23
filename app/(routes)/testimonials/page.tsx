@@ -5,8 +5,8 @@ const TestimonialsPage = () => {
     return (
         <>
             <TransitionPage/>
-            <div className="min-h-screen flex flex-col justify-center items-center px-4"> {/* Agregado px-4 para padding horizontal */}
-                <div className="w-full max-w-lg p-4 border border-teal-50 rounded-xl"> {/* Agregado max-w-lg para limitar el ancho */}
+            <div className="min-h-svh flex flex-col justify-center items-center px-2"> {/* Agregado px-4 para padding horizontal */}
+                <div className="w-full max-w-xl p-4 border border-teal-50 rounded-xl"> {/* Agregado max-w-lg para limitar el ancho */}
                     <h1 className="font-bold text-3xl mb-4 text-center">
                         <span className="text-white">Información</span> <span className="text-secondary">Personal</span>
                     </h1>
